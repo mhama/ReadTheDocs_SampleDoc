@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'STYLY'
-copyright = u'2020, Psychic VR Lab'
-author = u'Psychic VR Lab'
+project = u'HogeHoge'
+copyright = u'2020, MogeMoge'
+author = u'MogeMoge'
 
 # The short X.Y version
 version = u''
@@ -102,7 +102,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'STYLYdoc'
+htmlhelp_basename = 'HogeHogedoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -129,8 +129,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'STYLY.tex', u'STYLY Documentation',
-     u'Psychic VR Lab', 'manual'),
+    (master_doc, 'HogeHoge.tex', u'HogeHoge Documentation',
+     u'MogeMoge', 'manual'),
 ]
 
 
@@ -139,7 +139,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'styly', u'STYLY Documentation',
+    (master_doc, 'HogeHoge', u'HogeHoge Documentation',
      [author], 1)
 ]
 
@@ -150,8 +150,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'STYLY', u'STYLY Documentation',
-     author, 'STYLY', 'One line description of project.',
+    (master_doc, 'HogeHoge', u'HogeHoge Documentation',
+     author, 'HogeHoge', 'One line description of project.',
      'Miscellaneous'),
 ]
 
